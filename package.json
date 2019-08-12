@@ -1,0 +1,24 @@
+{
+  "name": "mongo-tutorial",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "./node_modules/.bin/cubejs-dev-server"
+  },
+  "dependencies": {
+    "@cubejs-backend/mongobi-driver": "^0.10.16",
+    "@cubejs-backend/server": "^0.10.21",
+    "bit": "^1.0.20",
+    "chart.js": "^2.8.0",
+    "install": "^0.13.0",
+    "jest-cli": "^24.8.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^24.8.0",
+    "react-test-renderer": "^16.9.0"
+  }
+}

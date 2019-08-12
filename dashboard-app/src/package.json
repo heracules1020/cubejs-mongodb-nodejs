@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bit/mui-org.material-ui.button": "file:./components/button"
+  }
+}

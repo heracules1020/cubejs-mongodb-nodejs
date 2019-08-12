@@ -1,0 +1,26 @@
+{
+  "name": "@bit/mui-org.material-ui.button",
+  "version": "3.9.2",
+  "homepage": "https://bit.dev/mui-org/material-ui/button",
+  "main": "dist/Button/index.js",
+  "dependencies": {
+    "@material-ui/utils": "^3.0.0-alpha.3",
+    "classnames": "2.2.6",
+    "prop-types": "15.7.2",
+    "@bit/mui-org.material-ui.button-base": "3.9.2",
+    "@bit/mui-org.material-ui.prop-typesd": "3.9.2",
+    "@bit/mui-org.material-ui.standard-propsd": "3.9.2",
+    "@bit/mui-org.material-ui.styles": "3.9.2",
+    "@bit/mui-org.material-ui.internal.helpers": "3.9.2"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@0.0.14"
+    }
+  }
+}

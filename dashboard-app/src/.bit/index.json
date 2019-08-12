@@ -1,0 +1,170 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/babel"
+    },
+    "isSymlink": false,
+    "hash": "ac130f5e67d6ac0482ae46fde1a4805ef4d8c149"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "testers/mocha"
+    },
+    "isSymlink": false,
+    "hash": "f1cf94a87c189d37406f15e86c678c150ef3cbc4"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "string/starts-with-one-of"
+    },
+    "isSymlink": false,
+    "hash": "b17241373e2e42f1af2ff1d03b533f54139faceb"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "validation/empty"
+    },
+    "isSymlink": false,
+    "hash": "f3eaf6905e683e3a07caa88471fa4fd5637fde13"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "button"
+    },
+    "isSymlink": false,
+    "hash": "b26c8b689b8c0d9be6cf52e58a315b94c9cea3c3"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "button-base"
+    },
+    "isSymlink": false,
+    "hash": "acc0c461b51c71694e08351d4e0381e5bf108d0e"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "prop-typesd"
+    },
+    "isSymlink": false,
+    "hash": "7e4f2b26fe7e2396811c828a418c774244bbfc6a"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "standard-propsd"
+    },
+    "isSymlink": false,
+    "hash": "077c899af4309974bdcc44a34d198dfd8ceb3683"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "styles"
+    },
+    "isSymlink": false,
+    "hash": "d390b243820e717bd6a52edefc464e372fb88735"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "test-utils"
+    },
+    "isSymlink": false,
+    "hash": "9181fa9c64f0ad77b5fc38518eb20902ba5547e0"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "internal/console-error-mock"
+    },
+    "isSymlink": false,
+    "hash": "1cda4cf39f843f796b5c4540917a9dbd9cb4b95c"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "colorsd"
+    },
+    "isSymlink": false,
+    "hash": "59655430dd207d7ae39567c5437d38c8f8968021"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "colors"
+    },
+    "isSymlink": false,
+    "hash": "dcf092e380978125cef6fa9d7209711069da3a4b"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "no-ssr"
+    },
+    "isSymlink": false,
+    "hash": "6f22d786099b6e8d37bbdb6a016372f282325429"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "internal/owner-window"
+    },
+    "isSymlink": false,
+    "hash": "a1c853a7a4c26ad17068aae87991967fa800a00c"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "internal/owner-document"
+    },
+    "isSymlink": false,
+    "hash": "69324be5d076bafaf9e59cc5a366dfda44f1a33b"
+  },
+  {
+    "id": {
+      "scope": "mui-org.material-ui",
+      "name": "internal/helpers"
+    },
+    "isSymlink": false,
+    "hash": "481e3285eb6779963f74ba4b019cfb7fa8737e70"
+  }
+]
