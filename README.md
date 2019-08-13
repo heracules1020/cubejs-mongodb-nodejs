@@ -8,4 +8,4 @@ This is where the Mongo data files will live. You can create the directory in th
 Make sure that the /data/db directory has the right permissions by running.
 
 > sudo chown -R `id -un` /data/db
-> # Enter your password
+> Enter your password
