@@ -18,6 +18,6 @@ Make sure that the /data/db directory has the right permissions by running.
 - Install the MongoDB Connector for BI.
    > tar -xvzf mongodb-bi-osx-x86_64-{version}.tgz  
    > sudo install -m755 bin/mongo* /usr/local/bin/
- -Start mongosqld.
+- Start mongosqld.
    > mongosqld
   
