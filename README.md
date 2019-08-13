@@ -1,5 +1,5 @@
 # cubejs-mongodb-nodejs
-Install and Run MongoDB with Homebrew
+-Install and Run MongoDB with Homebrew
 
 Open the Terminal app and type brew update.
 After updating Homebrew brew install mongodb
@@ -9,3 +9,6 @@ Make sure that the /data/db directory has the right permissions by running.
 
 > sudo chown -R `id -un` /data/db
 > Enter your password
+
+-Install BI Connector
+
