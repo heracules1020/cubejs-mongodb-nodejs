@@ -9,7 +9,7 @@
     "@cubejs-backend/mongobi-driver": "^0.10.16",
     "@cubejs-backend/server": "^0.10.21",
     "bit": "^1.0.20",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "install": "^0.13.0",
     "jest-cli": "^24.8.0"
   },
